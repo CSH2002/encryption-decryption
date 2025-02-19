@@ -1,5 +1,5 @@
 This program can encrypt and decrypt an input string based off user input. 
-When run the user will be queried to decide between encrypting and decrypting. Once the user picks an option the program will then ask for some additional inputs. (words geting encrypted or decrypted, and a key)
+When run the user will be queried to decide between encrypting and decrypting. Once the user picks an option the program will then ask for some additional inputs. (string words geting encrypted or decrypted, and a integer key)
 After this the program will display the encrypted/decrypted result derived from the inputs. 
 
 To run this program open it in visual studio and run it through the editor. This is a default VS project so the dependencies should be default. There are no packages used. 
