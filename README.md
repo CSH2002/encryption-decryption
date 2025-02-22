@@ -7,7 +7,7 @@ To run this program open it in visual studio and run it through the editor. This
 Limitations: 
 This tool is for educational purposes only and should never be used for sensitive information/data. This program utilizes a caesar cyper for encryption/decryption so all failures/warnings that come with such a cypher
 applies here. Do not use this tool to seriously protect encrypted data, Caesar ciphers can be broken. This prgram is very simple and does not include functionality past encrypting/decrypting an input. Also, this program
-requires a key, if the key is forgotten decryption will not be possible with this program.      
+requires a key, if the key is forgotten decryption will not be possible with this program. Do not enter numbers or symbols, this program cant handle those.      
 
 Responsible Usage: 
 When utilizing this tool realize that it is a simple program. This tool should not be capable of causing damage or harm to anyone inheritily due to its simplicity. The only shortfall would be if someone utlized this
